@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Solar cells.
+bio: My research interests include Solar cells, Light emitting deices.
 
 interests:
 - Artificial Intelligence
@@ -23,8 +23,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Photonics
+    institution: University of Surrey
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
