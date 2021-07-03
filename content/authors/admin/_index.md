@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Solar cells, Light emitting deices.
+bio: My research interests include Solar cells, Light emitting deices, Physics  of semiconductor materials, Visible light Communication, Sensors.
 
 interests:
 - Solar Cells 
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Tariq Sajjad is a Senior Lecturer in Energy Engineering and Materials Devices in the School of Engineering at London South Bank University (LSBU), London and a member of the London Centre for Energy Engineering (LCEE) in the same School. He founded and leads the Energy Engineering and Materials Devices (TEMD) group at LSBU. Prior to joining LSBU as a lecturer in December 2019, he worked at Organic Semiconductor Centre (OSC), University of St Andrews, first as a research fellow and then as a senior research fellow, where he made a broad contribution across the fields of optoelectronic materials and devices. In St Andrews, he also worked as coordinator of two centres (Advanced Functional Materials Research Centre and Organic Semiconductor Centre), where he (with Dr Miller) has developed and administered a facility for fabrication, structural and functional characterisation of materials at the nanoscale. He received his MSc and PhD, both from Advanced Technology Institute (ATI), University of Surrey, UK. During his PhD, he has investigated the exciton dynamics in carbon nanotubes (CNTs) for their possible application in solar cells and lasing.
