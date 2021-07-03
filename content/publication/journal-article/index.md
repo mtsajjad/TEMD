@@ -1,5 +1,5 @@
 ---
-title: Development of Quantum Dots (QD) Based Color Converters for Multicolor Display
+title: "Development of Quantum Dots (QD) Based Color Converters for Multicolor Display"
 authors:
 - Muhammad Tariq Sajjad
 - Ashu K. Bansal 
