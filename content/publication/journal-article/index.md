@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: Development of Quantum Dots (QD) Based Color Converters for Multicolor Display
 authors:
-- admin
-- Robert Ford
+- Muhammad Tariq Sajjad
+- Ashu K. Bansal 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
