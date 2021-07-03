@@ -18,10 +18,12 @@ bio: My research interests include Solar cells, Light emitting deices.
 
 interests:
 - Solar Cells 
+- Thermoelectric Devices
 - Physics of Semiconductor Materials
 - Light-Emitting Devices
 - Visible Light Communication (VLC)
 - Sensors
+- Photocatalysis
 
 education:
   courses:
@@ -51,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=cN5jPLMAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/mtsajjad
+  link: https://www.lsbu.ac.uk/about-us/people/people-finder/tariq-sajjad
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,6 @@ user_groups:
 - Principal Investigators
 ---
 
-Tariq Sajjad is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tariq Sajjad is a Senior Lecturer in Energy Engineering and Materials Devices in the School of Engineering at London South Bank University (LSBU), London and a member of the London Centre for Energy Engineering (LCEE) in the same School. He founded and leads the Energy Engineering and Materials Devices (TEMD) group at LSBU. Prior to joining LSBU as a lecturer in December 2019, he worked at Organic Semiconductor Centre (OSC), University of St Andrews, first as a research fellow and then as a senior research fellow, where he made a broad contribution across the fields of optoelectronic materials and devices. In St Andrews, he also worked as coordinator of two centres (Advanced Functional Materials Research Centre and Organic Semiconductor Centre), where he (with Dr Miller) has developed and administered a facility for fabrication, structural and functional characterisation of materials at the nanoscale. He received his MSc and PhD, both from Advanced Technology Institute (ATI), University of Surrey, UK. During his PhD, he has investigated the exciton dynamics in carbon nanotubes (CNTs) for their possible application in solar cells and lasing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tariq has made a significant contribution to the field of energy and sustainability. In recognition of his contribution to the field, the Royal Society of Chemistry (RSC, UK) recognized him as one of the emerging investigators in the field of energy and invited him for an article in the Journal of Materials Chemistry A Emerging Investigators Theme Issue 2020.1 EPSRC recently invited him to become a member of peer Review College. He is also working as a topic editor of journal “Coatings”
