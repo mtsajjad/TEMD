@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-TEMD Research Group is a center of excellence for Optolectronics research
+TEMD Research Group is a center of excellence for Optolectronics research.
