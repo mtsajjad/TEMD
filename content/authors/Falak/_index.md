@@ -4,7 +4,7 @@ title: Miss Falak Naz
 
 # Username (this should match the folder name)
 authors:
-- Tariq Sajjad
+- Falak
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Photophysics of semiconductor materials and devices.
 
 interests:
 - TADF Hyperflourescence
