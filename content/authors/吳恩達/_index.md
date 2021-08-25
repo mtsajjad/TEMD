@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr
+title: Dr Sadaf Aftab
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
