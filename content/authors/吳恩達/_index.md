@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Sadaf Aftab
+title: Sadaf Aftab
 
 # Username (this should match the folder name)
 authors:
