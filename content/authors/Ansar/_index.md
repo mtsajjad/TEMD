@@ -4,7 +4,7 @@ title: Ansar Ali Shah
 
 # Username (this should match the folder name)
 authors:
-- Ansar
+- Tariq Sajjad
 
 # Is this the primary user of the site?
 superuser: false
