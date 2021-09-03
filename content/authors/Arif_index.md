@@ -4,7 +4,7 @@ title: Arif Sajjad
 
 # Username (this should match the folder name)
 authors:
-- Falak
+- Tariq Sajjad
 
 # Is this the primary user of the site?
 superuser: false
